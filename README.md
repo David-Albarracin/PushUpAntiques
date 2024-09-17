@@ -6,9 +6,9 @@ Este proyecto proporciona una solución de base de datos para un negocio de anti
 
 ## Diagramas
 
-![](./Captura de pantalla 2024-09-17 160045.png)
+![DG](./DG.png)
 
-![](./antiques_db_ER.png)
+![antiques_db_ER](./antiques_db_ER.png)
 
 ## Tablas Principales
 
